@@ -39,3 +39,10 @@ python-log-analyzer/
 │
 └── output/
     └── report_1001.txt
+
+## 📸 Project Screenshot
+
+Below is an example of the Log Analyzer successfully processing transaction ID `1001` and generating a report.
+
+<img width="1556" height="919" alt="image" src="https://github.com/user-attachments/assets/c83f693f-08c2-4d15-9176-fe381eeeed03" />
+
