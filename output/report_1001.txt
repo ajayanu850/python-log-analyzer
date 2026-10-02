@@ -1,0 +1,11 @@
+--- Log Analysis Report ---
+
+Transaction ID: 1001
+Total Records: 5
+INFO: 2
+WARNING: 1
+ERROR: 2
+
+Error Messages:
+- Database connection failed
+- Authentication failed
