@@ -1,0 +1,8 @@
+2026-10-02 10:00:01 INFO ID=1001 Server started successfully
+2026-10-02 10:00:05 ERROR ID=1001 Database connection failed
+2026-10-02 10:00:10 WARNING ID=1002 Response time is high
+2026-10-02 10:00:15 INFO ID=1001 Retrying connection
+2026-10-02 10:00:20 ERROR ID=1001 Authentication failed
+2026-10-02 10:00:25 INFO ID=1002 Request completed
+2026-10-02 10:00:30 ERROR ID=1003 Disk space low
+2026-10-02 10:00:35 WARNING ID=1001 Connection unstable
